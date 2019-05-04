@@ -1,0 +1,1 @@
+#scrapy_celery_app
