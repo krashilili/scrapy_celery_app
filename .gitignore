@@ -1,2 +1,6 @@
 .idea
 venv
+.env
+Crawlers/__pycache__
+Crawlers/spiders/__pycache__
+Crawlers/spiders/*.log
